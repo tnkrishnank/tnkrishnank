@@ -19,9 +19,8 @@ Here are some ideas to get you started:
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Student at <a href="https://www.psgtech.edu/">PSG COLLEGE OF TECHNOLOGY</a></em></p>
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![Linkedin: tnkishnank](https://img.shields.io/badge/-tnkrishnank-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tnkrishnank/)](https://www.linkedin.com/in/tnkrishnank/)
+[![GitHub tnkrishnank](https://img.shields.io/github/followers/tnkrishnank?label=follow&style=social)](https://github.com/tnkrishnank)
 
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning Binary Exploitation
