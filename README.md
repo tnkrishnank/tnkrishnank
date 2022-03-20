@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Web Development
+- 🌱 I’m currently learning Binary Exploitation
+- 👯 I’m looking to collaborate on Security Projects
+- 💬 Ask me about Cyber Security
