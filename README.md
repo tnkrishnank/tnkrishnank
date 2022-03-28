@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![Linkedin: tnkishnank](https://img.shields.io/badge/-tnkrishnank-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tnkrishnank/)](https://www.linkedin.com/in/tnkrishnank/)
 [![GitHub tnkrishnank](https://img.shields.io/github/followers/tnkrishnank?label=follow&style=social)](https://github.com/tnkrishnank)
 
-- 🔭 I’m currently working on Web Development
+- 🔭 I’m currently working on Ransomware
 - 🌱 I’m currently learning Binary Exploitation
 - 👯 I’m looking to collaborate on Security Projects
 - 💬 Ask me about Cyber Security
@@ -38,4 +38,3 @@ const navin = {
                    },
 }
 ```
----
