@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 const navin = {
   pronouns: "he" | "him",
   code: [C, C++, Python, Java, HTML, CSS, Javascript, PL/SQL],
-  tools: [NodeJS, Git, ExpressJS, MongoDB, Flask, Bootstrap],
+  tools: [Git, GitHub, NodeJS, ExpressJS, MongoDB, Flask, Bootstrap],
   platform: ["windows", "linux"],
   techCommunities: {
                         member: "Space Center",
