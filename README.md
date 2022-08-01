@@ -13,8 +13,8 @@
 ```javascript
 const navin = {
   pronouns: "he" | "him",
-  code: [C, C++, Python, Java, HTML, CSS, Javascript, PL/SQL],
-  tools: [Git, GitHub, NodeJS, ExpressJS, MongoDB, Flask, Bootstrap],
+  code: [C, C++, Python, Java, HTML, CSS, Javascript, PL/SQL, Shell Script],
+  tools: [Git, GitHub, NodeJS, ExpressJS, MongoDB, Flask, Bootstrap, PostgreSQL],
   platform: ["windows", "linux"],
   techCommunities: {
                         member: "Space Center",
