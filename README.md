@@ -6,7 +6,7 @@
 [![GitHub tnkrishnank](https://img.shields.io/github/followers/tnkrishnank?label=follow&style=social)](https://github.com/tnkrishnank)
 
 - 🔭 I’m currently working on Web Engineering
-- 🌱 I’m currently learning Authentication Vulnerabilities
+- 🌱 I’m currently learning JWT Vulnerabilities
 - 👯 I’m looking to collaborate on Security Projects
 - 💬 Ask me about SQL Injection
 
