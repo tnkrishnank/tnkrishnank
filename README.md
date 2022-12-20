@@ -13,10 +13,10 @@
 <br>
 
 <p>
-  🔭 &nbsp;&nbsp;I’m currently working on Web Engineering
+  🔭 &nbsp;&nbsp;I’m currently working on Bug Bounty
 </p>
 <p>
-  🌱 &nbsp;&nbsp;I’m currently learning JWT Vulnerabilities
+  🌱 &nbsp;&nbsp;I’m currently learning Malware Analysis
 </p>
 <p>
   👯 &nbsp;&nbsp;I’m looking to collaborate on Security Projects
