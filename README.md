@@ -1,5 +1,6 @@
 <h2> Hi 👋, I'm Navin Krishna! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://cdn.dribbble.com/users/3943049/screenshots/14032596/media/9e39cf22d33b4d2b77e9f270f2f06f6e.gif" width="230">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnkrishnank&layout=compact)]()
+<!-- <img align='right' src="https://cdn.dribbble.com/users/3943049/screenshots/14032596/media/9e39cf22d33b4d2b77e9f270f2f06f6e.gif" width="230"> -->
 <p><em>Student at <a href="https://www.psgtech.edu/">PSG COLLEGE OF TECHNOLOGY</a></em></p>
 
 [![Linkedin: tnkishnank](https://img.shields.io/badge/-tnkrishnank-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tnkrishnank/)](https://www.linkedin.com/in/tnkrishnank/)
