@@ -8,19 +8,25 @@
 
 <br>
 
-<div>
-  <div valign="top" width="50%">
-    - 🔭 I’m currently working on Web Engineering
-    - 🌱 I’m currently learning JWT Vulnerabilities
-    - 👯 I’m looking to collaborate on Security Projects
-    - 💬 Ask me about SQL Injection
-  </div>
-  <div valign="top" width="50%">
-    <p align="center">
-      <a href="https://github.com/tnkrishnank/github-readme-stats"><img alt="tnkrishnank" src="https://github-readme-stats.vercel.app/api?username=tnkrishnank&show_icons=true&count_private=true&theme=midnight-purple&bg_color=151515&hide_border=true" height="192px"/></a>
-    </p>
-  </div>
-</div>
+<img align="right" alt="tnkrishnank" src="https://github-readme-stats.vercel.app/api?username=tnkrishnank&show_icons=true&count_private=true&theme=midnight-purple&bg_color=151515&hide_border=true" height="192px"/>
+
+<br>
+
+<p>
+  🔭 &nbsp;&nbsp;I’m currently working on Web Engineering
+</p>
+<p>
+  🌱 &nbsp;&nbsp;I’m currently learning JWT Vulnerabilities
+</p>
+<p>
+  👯 &nbsp;&nbsp;I’m looking to collaborate on Security Projects
+</p>
+<p>
+  💬 &nbsp;&nbsp;Ask me about SQL Injection
+</p>
+
+<br>
+<br>
 
 ```javascript
 const Navin = {
