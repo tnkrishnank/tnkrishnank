@@ -8,7 +8,7 @@
 
 <br>
 
-<img align="right" alt="tnkrishnank" src="https://github-readme-stats.vercel.app/api?username=tnkrishnank&show_icons=true&count_private=true&theme=midnight-purple&bg_color=151515&hide_border=true" height="192px"/>
+<img align="right" alt="tnkrishnank" src="https://github-readme-stats.vercel.app/api?username=tnkrishnank&show_icons=true&count_private=true&theme=midnight-purple&bg_color=151515&hide_border=true" height="190px"/>
 
 <br>
 
