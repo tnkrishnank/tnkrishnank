@@ -13,12 +13,9 @@
 ```javascript
 const Navin = {
   pronouns: "He" | "Him",
-  code: [Python, C#, C, C++, JavaScript, Java, Shell Script, SQL],
+  code: [Python, C#, C++, C, SQL, Shell Script],
   platform: ["Linux", "Windows"],
-  tools: [gRPC, Wireshark, Burp Suite, Windows Sysinternals],
-  frameworks: [WPF, NodeJS, Express.js, Python Flask],
-  techCommunities: {
-                        member: "Space Center",
-                   },
+  tools: [gRPC, OAuth 2.0, Postman, Docker, PostgreSQL, ELK Stack, Wireshark, Burp Suite, Windows Sysinternals],
+  frameworks: [WPF, Flask, NodeJS, Express.js],
 }
 ```
